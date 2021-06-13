@@ -5,7 +5,7 @@
 2.Connecting to the browser using the Chromeoption class
 ```
 
-## Step 1
+## Steps
 ```
 1.Navigate to the chrome.exe file and launch cmd 
 2.Execute the below command in cmd 
