@@ -12,7 +12,7 @@
 ```
 ## CMD
 ```
-chrome.exe --remote-debugging-port=9228 --user-data-dir="path\chromedata"
+chrome.exe --remote-debugging-port=9228 --user-data-dir=path\chromedata
 ```
 ![](https://github.com/antonysam/Execute_Scripts_in_opened_browser/blob/master/Images/chrome_debug.JPG)
 
